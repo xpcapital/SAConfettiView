@@ -13,9 +13,10 @@
     "tag": "0.1.8"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "11.0"
   },
   "requires_arc": true,
+  "swift_versions": "5.0",
   "source_files": "Pod/Classes/**/*",
   "resource_bundles": {
     "SAConfettiView": [
@@ -25,5 +26,6 @@
   "frameworks": [
     "UIKit",
     "QuartzCore"
-  ]
+  ],
+  "swift_version": "5.0"
 }
